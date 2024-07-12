@@ -1,0 +1,9 @@
+.sign {
+  background-image: url("https://media.gq-magazine.co.uk/photos/65bb875dae1247ee3f1b640b/16:9/w_2560%2Cc_limit/Affordable_Clothing_02.jpgs");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
